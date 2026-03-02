@@ -9,7 +9,7 @@ int buildNumber(int a, int b, int c, int d) {
     return combined;
 }
 
-int main() {
+int main(){
     
     int a, b, c, d;
 
