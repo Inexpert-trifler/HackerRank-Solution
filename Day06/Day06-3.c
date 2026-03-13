@@ -21,6 +21,7 @@ int main() {
         return 1;
     }
 
+
     final_price = discounted(original_price, discount_percent);
 
     printf("The final price is: %f\n", final_price);
