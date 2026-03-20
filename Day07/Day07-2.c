@@ -16,4 +16,4 @@ int main() {
 
     return 0; 
 }
-//Bitwise_Set i-th bit
+//Bitwise_Set i-th bit. 
